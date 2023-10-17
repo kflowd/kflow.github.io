@@ -202,12 +202,6 @@ p {
     margin: 0 auto
 }
 
-@-moz-document url-prefix() {
-    .profile-name {
-        display: block
-    }
-}
-
 @media only screen and (max-width:29.9375em) {
     body {
         -webkit-text-size-adjust: 100%;
@@ -539,7 +533,6 @@ screen and (min-width:64em) and (max-height:68.6875em) {
         display: -webkit-box;
         display: -moz-box;
         display: -ms-box;
-        display: box;
         float: none
     }
 
@@ -593,7 +586,6 @@ screen and (min-width:64em) and (max-height:68.6875em) {
         display: -webkit-box;
         display: -moz-box;
         display: -ms-box;
-        display: box;
         float: none
     }
 
