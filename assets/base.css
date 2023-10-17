@@ -147,15 +147,12 @@ p {
     -webkit-box-orient: vertical;
     -moz-box-orient: vertical;
     -ms-box-orient: vertical;
-    box-orient: vertical;
     -webkit-box-pack: center;
     -moz-box-pack: center;
     -ms-box-pack: center;
-    box-pack: center;
     display: -webkit-box;
     display: -moz-box;
     display: -ms-box;
-    display: box;
     font-weight: 300;
     min-height: 2.57143em;
     margin-left: 98px;
@@ -429,15 +426,12 @@ p {
         -webkit-box-orient: vertical;
         -moz-box-orient: vertical;
         -ms-box-orient: vertical;
-        box-orient: vertical;
         -webkit-box-pack: center;
         -moz-box-pack: center;
         -ms-box-pack: center;
-        box-pack: center;
         display: -webkit-box;
         display: -moz-box;
         display: -ms-box;
-        display: box;
         float: none
     }
 
@@ -485,15 +479,12 @@ p {
         -webkit-box-orient: vertical;
         -moz-box-orient: vertical;
         -ms-box-orient: vertical;
-        box-orient: vertical;
         -webkit-box-pack: center;
         -moz-box-pack: center;
         -ms-box-pack: center;
-        box-pack: center;
         display: -webkit-box;
         display: -moz-box;
         display: -ms-box;
-        display: box;
         float: none
     }
 
@@ -542,11 +533,9 @@ screen and (min-width:64em) and (max-height:68.6875em) {
         -webkit-box-orient: vertical;
         -moz-box-orient: vertical;
         -ms-box-orient: vertical;
-        box-orient: vertical;
         -webkit-box-pack: center;
         -moz-box-pack: center;
         -ms-box-pack: center;
-        box-pack: center;
         display: -webkit-box;
         display: -moz-box;
         display: -ms-box;
@@ -598,11 +587,9 @@ screen and (min-width:64em) and (max-height:68.6875em) {
         -webkit-box-orient: vertical;
         -moz-box-orient: vertical;
         -ms-box-orient: vertical;
-        box-orient: vertical;
         -webkit-box-pack: center;
         -moz-box-pack: center;
         -ms-box-pack: center;
-        box-pack: center;
         display: -webkit-box;
         display: -moz-box;
         display: -ms-box;
